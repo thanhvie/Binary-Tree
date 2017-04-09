@@ -1,0 +1,9 @@
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Form1.resources
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\thanhvie\Documents\2017 Projects\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
